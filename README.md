@@ -1,4 +1,4 @@
-# Biased MF for Google Maps Rating Prediction
+# Biased MF for Google Maps Rating Prediction | [Full Workbook](workbook%20copy.html)
 
 This repository implements a personalized rating prediction system for Google Maps reviews using biased matrix factorization (MF) with stochastic gradient descent (SGD). The goal is to predict a user's future rating for a business in California, based on historical review data.
 
